@@ -16,3 +16,14 @@ Q3) How does the number of female athletes that nations have sent to the Olympic
 
 This question examines the relationship between gender equality, economic development and women's participation in sport by examining differences in the number of female athletes submitted by countries, as well as their relationship with GDP growth and the Gender Inequality Index (GII). A variety of data visualization techniques can be used to properly show these patterns. With income groups or areas separated by size or color, a scatter plot can show the correlation between GDP development and the proportion of female athletes across time. Line graphs can highlight longitudinal changes in female athlete participation by showing patterns across socioeconomic levels. The percentage of male and female athletes in different sports for different nations or areas can be compared using a stacked bar chart. As a result, a bubble chart combining data on women's participation, GDP and GII can show the relationship between gender differences in sport and gender inequality at the societal level. These methods allow for a more complex understanding of the relationship between gender equality, economic growth and participation in sport.
 
+Datasets: 
+https://www.kaggle.com/datasets/krzysztofszafraski/paris2024-olympics-country-level-data
+https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
+https://www.kaggle.com/datasets/mathurinache/women-in-the-olympic-games
+
+Team Member
+İlayda Aslan 120203068
+Ayşe Kocavelioğlu 120203054
+Beril Polat 120203009
+
+
