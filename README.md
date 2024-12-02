@@ -25,9 +25,9 @@ https://www.kaggle.com/datasets/mathurinache/women-in-the-olympic-games
 The project is hosted using GitHub Pages (https://berilpltt.github.io/BeyondTheMedal/)
 
 ## Team 
--İlayda Aslan 120203068
--Ayşe Kocavelioğlu 120203054
--Beril Polat 120203009
+- İlayda Aslan 120203068
+- Ayşe Kocavelioğlu 120203054
+- Beril Polat 120203009
 
 
 
