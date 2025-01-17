@@ -31,7 +31,7 @@ The data highlights the persistent gender imbalances in sports, prompting discus
 
 The big question was clear: Do men and women have the same chances in sports? This research looked at sports around the world to find answers. The focus was on understanding which sports and countries give everyone fair chances to play The chart provides a clear visualization of the gender ratio distribution by sport for each country in this example. It offers a country-specific perspective on gender representation in sports, highlighting the percentage of male and female athletes participating in various disciplines. Allowing other countries to be explored via an interactive drop-down menu, the graphic places these findings in a global context and encourages reflection on the broader dynamics of inclusivity and gender balance in sports participation.
 
-+ ![Gender Ratio Distribution by Sports for Each Country](https://github.com/BILGI-IE-421/ie421-2024-2025-termproject-data-wizards-of-gandalf/blob/main/Visuals/Gender%20Ratio%20Distribution%20by%20Sports%20for%20Each%20Country.png)
++ ![Gender Ratio Distribution by Sports for Each Country](https://github.com/BILGI-IE-421/ie421-2024-2025-termproject-data-wizards-of-gandalf/blob/main/Visuals/gender_ratio_distrb_bysport_eachcountry.html)
 
 In Türkiye, gender representation across sports shows notable variation. Sports like Artistic Gymnastics exhibit a predominantly female representation, while disciplines such as Wrestling and Weightlifting are dominated by male participants. Other sports, such as Swimming and Volleyball, show a more balanced distribution, reflecting greater gender parity.
 
