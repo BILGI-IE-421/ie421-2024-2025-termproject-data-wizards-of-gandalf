@@ -56,7 +56,7 @@ https://olympics.com/en/paris-2024/athletes
 https://en.wikipedia.org/wiki/2024_Summer_Olympics
 
 ## Hosting
-The project is hosted using GitHub Pages (https://berilpltt.github.io/BeyondTheMedal/)
+The project is hosted using GitHub Pages (https://berilpltt.github.io/BeyondTheMedal/) - (https://github.com/BerilPltt/BeyondTheMedal)
 
 ## Team 
 - İlayda Aslan 120203068
